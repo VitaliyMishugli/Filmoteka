@@ -2,14 +2,14 @@
   "name": "my__filmoteka",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://VitaliyMishugli.github.io/filmoteka",
+  "homepage": "https://VitaliyMishugli.github.io/Filmoteka",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /filmoteka/"
+    "build": "parcel build src/*.html --public-url /Filmoteka/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VitaliyMishugli/filmoteka.git"
+    "url": "git+https://github.com/VitaliyMishugli/Filmoteka.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
