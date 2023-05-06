@@ -39,14 +39,16 @@
 
 .gallery-art:hover .card__img--container {
     @media screen and (min-width: getSize(desktop)) {
-        transform: rotateY(180deg);
-        backface-visibility: visible;
+        // transform: rotateY(180deg);
+        transform: scale(1.05);
+        backface-visibility: hidden;;
     }
 }
 
 .gallery-art:hover .cards-back-text {
     @media screen and (min-width: getSize(desktop)) {
-        transform: rotateY(360deg);
+        // transform: rotateY(360deg);
+        transform: scale(1.05);
     }
 }
 
